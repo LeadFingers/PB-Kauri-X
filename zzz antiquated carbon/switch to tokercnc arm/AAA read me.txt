@@ -1,0 +1,5 @@
+these arms are now considered antiquated as of 8/18/22.
+
+we are switching to the toker CNC style arm to make the majority of Street League Spec arms on the market compatible with eachother.
+
+The Toker arm and the Kauri arm are not directly cross compatible. you can make them compatible by filing a corner down on the Toker arm where it meets the inside corner of the Kauri arm. a photo of where these two parts conflict is provided in this folder.

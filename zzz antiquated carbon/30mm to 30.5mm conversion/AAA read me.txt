@@ -1,0 +1,5 @@
+these mid and bottom plate arms are now considered antiquated as of 8/18/22
+
+These files used a 30mmx30mm spacing for the stack holes.  we decided to switch to the actual measurments of 30.5x30.5mm to reduce the chances that there are stacks on the market that wouldnt fit on the frame. 
+
+If you have to mix these old files with the new files they will most likely still work as long as you use button head bolts.
